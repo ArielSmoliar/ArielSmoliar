@@ -1,8 +1,6 @@
 ## Hi, I'm Ariel Smoliar
 
-# Ariel Smoliar
-
-**AI founder. Product leader. Builder at the intersection of applied AI, APIs, and infrastructure at scale.**
+AI founder. Product leader. Builder at the intersection of applied AI, APIs, and infrastructure at scale.
 
 I founded [PlanetWatchers](https://spacenews.com/planetwatchers-markets/), a satellite imagery AI company that translated deep learning research into a production cloud-native platform. Alongside that, 12+ years leading product at companies where AI meets real-world systems at scale.
 
