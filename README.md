@@ -33,7 +33,7 @@ Built ML-powered observability and APM products used by engineering teams at sca
 
 ## Research
 
-[Applied deep learning in remote sensing](https://ieeexplore.ieee.org/document/7395883) — IEEE
+[Discovering anomalies and root aauses in applications](https://ieeexplore.ieee.org/document/7395883)
 
 ---
 
