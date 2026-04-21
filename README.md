@@ -37,15 +37,4 @@ Built ML-powered observability and APM products used by engineering teams at sca
 
 ---
 
-## Background in brief
-
-| Company | Role | Highlight |
-|---|---|---|
-| PlanetWatchers | Founder | $0 → $$ ARR, satellite imagery AI, Series A |
-| Meta | Product Leader | $B+ revenue platform, LLM-based products at scale |
-| Sumo Logic | Product Leader | ML-powered observability |
-| AppDynamics | Product Leader | ML-powered APM |
-
----
-
 *Open to conversations about AI in security, observability, and the applied AI ecosystem.*
