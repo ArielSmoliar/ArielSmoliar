@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hi, I'm Ariel Smoliar
 
-<!--
-**ArielSmoliar/ArielSmoliar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ariel Smoliar
 
-Here are some ideas to get you started:
+**AI founder. Product leader. Builder at the intersection of applied AI, APIs, and infrastructure at scale.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I founded [PlanetWatchers](https://spacenews.com/planetwatchers-markets/), a satellite imagery AI company that translated deep learning research into a production cloud-native platform. Alongside that, 12+ years leading product at companies where AI meets real-world systems at scale.
+
+Deeply curious about safe and beneficial AI. These days focused on the frontier of **AI in security and observability**.
+
+---
+
+## What I've built
+
+### PlanetWatchers — Founder
+Satellite imagery AI for agriculture and insurance. Translated deep learning research (U-Net architectures) into a production platform. Built and monetized the API from zero to $$ ARR through founder-led GTM, partnering directly with research teams from inception to Series A.
+
+> [SpaceNews coverage](https://spacenews.com/planetwatchers-markets/) · [Planet.com: Satellite data and AI in agriculture insurance](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/)
+
+### Meta
+Led the messaging developer platform generating $B+ in revenue opportunity across third-party APIs and Ads Manager. Built and shipped LLM-based products at scale.
+
+### Sumo Logic & AppDynamics
+Built ML-powered observability and APM products used by engineering teams at scale.
+
+---
+
+## What I'm thinking about now
+
+- **AI in security and observability** — threat detection, anomaly analysis, and intelligent systems that operate at machine speed
+- **Applied AI that ships** — closing the gap between frontier research and production systems
+- **Safe and interpretable AI** — reliability and steerability as first-class product properties, not afterthoughts
+
+---
+
+## Research
+
+[Applied deep learning in remote sensing](https://ieeexplore.ieee.org/document/7395883) — IEEE
+
+---
+
+## Background in brief
+
+| Company | Role | Highlight |
+|---|---|---|
+| PlanetWatchers | Founder | $0 → $$ ARR, satellite imagery AI, Series A |
+| Meta | Product Leader | $B+ revenue platform, LLM-based products at scale |
+| Sumo Logic | Product Leader | ML-powered observability |
+| AppDynamics | Product Leader | ML-powered APM |
+
+---
+
+*Open to conversations about AI in security, observability, and the applied AI ecosystem.*
