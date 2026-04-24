@@ -16,8 +16,7 @@ Founded a geospatial AI startup for monitoring large-scale natural resources. Tr
 > [SpaceNews coverage](https://spacenews.com/planetwatchers-markets/) · [Planet.com: Satellite data and AI in agriculture insurance](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/)
 
 ### Meta
-Led the messaging developer platform, generating $B+ in revenue opportunity across third-party APIs and Ads Manager
-Built and shipped LLM-based products at scale
+Led the messaging developer platform, generating $B+ in revenue opportunity across third-party APIs and Ads Manager. Built and shipped LLM-based products at scale
 
 ### Sumo Logic & AppDynamics
 Built ML-powered observability products at scale.
