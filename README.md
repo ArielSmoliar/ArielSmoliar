@@ -10,8 +10,8 @@ Deeply curious about safe and beneficial AI. These days, exploring the frontier 
 
 ## What I've built
 
-### PlanetWatchers — Founder
-Satellite imagery AI for agriculture and insurance. Translated deep learning research (U-Net architectures) into a production platform. Built and monetized the API from zero to $$ ARR through founder-led GTM, partnering directly with research teams from inception to Series A.
+### PlanetWatchers
+Founded a satellite imagery AI for monitoring large-scale natural resources. Translated deep learning research (U-Net architecture) into a production platform. Built and monetized the product from zero to $$ ARR through founder-led GTM, partnering directly with research teams from inception to Series A.
 
 > [SpaceNews coverage](https://spacenews.com/planetwatchers-markets/) · [Planet.com: Satellite data and AI in agriculture insurance](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/)
 
