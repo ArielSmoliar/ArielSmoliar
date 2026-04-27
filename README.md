@@ -25,9 +25,9 @@ Built ML-powered observability products at scale.
 
 ## What I'm thinking about now
 
-- **AI in security and observability** — threat detection, anomaly analysis, and intelligent systems that operate at machine speed
-- **Applied AI that ships** — closing the gap between frontier research and production systems
-- **Safe and interpretable AI** — reliability and steerability as first-class product properties, not afterthoughts
+- **AI in security and observability** - threat detection, anomaly analysis, and intelligent systems that operate at machine speed
+- **Applied AI that ships** - closing the gap between frontier research and production systems
+- **Safe and interpretable AI** - reliability and steerability as first-class product properties
 
 ---
 
