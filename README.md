@@ -16,7 +16,7 @@ Building an LLM-first security product that connects to multi-cloud audit logs a
 
 No ingestion fees. No rules to write. Your raw logs never leave your cloud.
 
-> [tryflare.ai](https://www.tryflare.ai) · Now in beta · AWS & Azure coming soon
+> [tryflare.ai](https://www.tryflare.ai) · Now in beta · Started with GCP, AWS & Azure coming soon
 
 ### PlanetWatchers - Last mile analytics
 
