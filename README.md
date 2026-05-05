@@ -4,7 +4,7 @@ AI founder. Product leader. Builder at the intersection of applied AI, APIs, and
 
 I founded [PlanetWatchers](https://spacenews.com/planetwatchers-markets/), an AI satellite imagery startup that translated deep learning research into a production cloud-native platform. Alongside that, 12+ years leading product at companies where AI/ML meets real-world systems at scale.
 
-Deeply curious about safe and beneficial AI. These days, building [Flare](https://www.tryflare.ai/) (LLM-first cloud anomaly detection) and exploring the frontier of **AI in security and observability**.
+Deeply curious about safe and beneficial AI. These days, building [Flare](https://www.tryflare.ai/) (LLM-first cloud anomaly detection) and exploring the frontier of **AI in security and observability**, and researching a new agents orchestration framework.
 
 ---
 
