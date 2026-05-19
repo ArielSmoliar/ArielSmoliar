@@ -4,13 +4,13 @@ AI founder. Product leader. Builder at the intersection of applied AI, APIs, and
 
 I founded [PlanetWatchers](https://www.planetwatchers.com/), a satellite imagery startup that translated deep learning research into a production cloud-native platform. Alongside that, 12+ years leading product at companies where AI/ML meets real-world systems at scale.
 
-These days, building [Flare](https://www.tryflare.ai/) (LLM-first cloud anomaly detection), exploring the frontier of AI in security and observability, and researching a new agent orchestration [framework](https://github.com/ArielSmoliar/loco-agent).
+These days, building [Flare](https://www.tryflare.ai/) (LLM-first cloud log anomaly detection), and researching a new agent orchestration [framework](https://github.com/ArielSmoliar/loco-agent).
 
 ---
 
 ## What I've built
 
-### Flare - Cloud anomaly detection
+### Flare - Cloud log anomaly detection
 
 Building an LLM-first security product that connects to multi-cloud audit logs and surfaces what doesn't fit: unusual IPs, privilege escalations, and permission spikes. Ranked by severity and explained in plain English.
 
