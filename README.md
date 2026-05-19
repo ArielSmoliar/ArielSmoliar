@@ -44,10 +44,12 @@ Built ML-powered observability products at scale.
 
 ## Research
 
-[Discovering Anomalies and Root Causes in Applications via Relevant Fields Analysis](https://ieeexplore.ieee.org/document/7395883)
+[A Message-Passing and Load-Sensitive Contention-Based MAC Protocol for Ad-Hoc Wireless Networks](./A%20Message-Passing%20and%20Load-Sensitive%20Contention-Based%20MAC%20Protocol%20for%20Ad-Hoc%20Wireless%20Networks.pdf) — M.Sc. Thesis
 
-[A Message-Passing and Load-Sensitive Contention-Based MAC Protocol for Ad-Hoc Wireless Networks](./A%20Message-Passing%20and%20Load-Sensitive%20Contention-Based%20MAC%20Protocol%20for%20Ad-Hoc%20Wireless%20Networks.pdf)
+[Discovering anomalies and root causes in applications](https://ieeexplore.ieee.org/document/7395883)
 
 ---
 
 *Open to conversations about AI in security, observability, and the applied AI ecosystem.*
+
+[LinkedIn](https://www.linkedin.com/in/arielsmoliar/) · [Email](mailto:ariel.smoliar@gmail.com)
