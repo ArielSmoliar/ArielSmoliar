@@ -8,21 +8,21 @@ I build AI products that ship. Right now I'm focused on cloud security and multi
 
 ## What I'm building
 
-**[Flare](https://www.tryflare.ai)** - LLM-first cloud log anomaly detection. Connects to your audit logs, surfaces what doesn't fit, explains it in plain English. No rules to write, no ingestion fees.
+ - **[Flare](https://www.tryflare.ai)** - LLM-first cloud log anomaly detection. Connects to your audit logs, surfaces what doesn't fit, explains it in plain English. No rules to write, no ingestion fees.
 
-**[LOCO-Agent](https://github.com/ArielSmoliar/loco-agent)** - Load-aware scheduling for multi-agent systems. Routes tokens to the highest-value work and tracks spend across every agent.
+ - **[LOCO-Agent](https://github.com/ArielSmoliar/loco-agent)** - Load-aware scheduling for multi-agent systems. Routes tokens to the highest-value work and tracks spend across every agent.
 
-**[Safe-Agent](https://github.com/ArielSmoliar/safe-agent)** - Drop-in security skills for AI coding agents. Skill verification, cost tracking, tool authorization, behavioral anomaly detection, and pre-execution safety checks.
+ - **[Safe-Agent](https://github.com/ArielSmoliar/safe-agent)** - Drop-in security skills for AI coding agents. Skill verification, cost tracking, tool authorization, behavioral anomaly detection, and pre-execution safety checks.
 
 ---
 
 ## Where I've been
 
-**[PlanetWatchers](https://spacenews.com/planetwatchers-markets/)** - Founded a geospatial AI startup for monitoring natural resources at scale. Deep learning research → production platform → revenue. ([Planet.com coverage](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/))
+ - **[PlanetWatchers](https://spacenews.com/planetwatchers-markets/)** - Founded a geospatial AI startup for monitoring natural resources at scale. Deep learning research → production platform → revenue. ([Planet.com coverage](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/))
 
-**Meta** - Led the messaging developer platform ($B+ revenue opportunity across third-party APIs and Ads Manager). Built and shipped LLM-based products at scale.
+ - **Meta** - Led the messaging developer platform ($B+ revenue opportunity across third-party APIs and Ads Manager). Built and shipped LLM-based products at scale.
 
-**Sumo Logic & AppDynamics** - ML-powered observability products.
+ - **Sumo Logic & AppDynamics** - ML-powered observability products.
 
 ---
 
