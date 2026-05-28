@@ -8,7 +8,7 @@ I build AI products that ship. Right now I'm focused on cloud security and multi
 
 ## What I'm building
 
- - **[Flare](https://www.tryflare.ai)** - LLM-first cloud log anomaly detection. Connects to your audit logs, surfaces what doesn't fit, explains it in plain English. No rules to write, no ingestion fees.
+ - **[Flare](https://www.tryflare.ai)** - LLM-first cloud log anomaly detection. Connects to your audit logs, surfaces what doesn't fit, explains it in plain English. No rules to write, no ingestion fees. ([Our approach to evals](https://x.com/ariel_smoliar/status/2053200148814024838))
 
  - **[LOCO-Agent](https://github.com/ArielSmoliar/loco-agent)** - Load-aware scheduling for multi-agent systems. Routes tokens to the highest-value work and tracks spend across every agent.
 
