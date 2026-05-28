@@ -1,7 +1,8 @@
 # Hey, I'm Ariel 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielsmoliar/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ariel.smoliar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielsmoliar/)
+[![X](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/ariel_smoliar)
+[![Email](https://img.shields.io/badge/-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ariel.smoliar@gmail.com)
 
 I build AI products that ship. Right now I'm focused on cloud security and multi-agent orchestration — before that, I spent 12+ years leading product at places where AI/ML meets real-world systems at scale.
 
