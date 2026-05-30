@@ -18,9 +18,9 @@ I build AI products that ship. Right now I'm focused on cloud security and multi
 
 ## Where I've been
 
- - **[PlanetWatchers](https://spacenews.com/planetwatchers-markets/)** - Founded a geospatial AI startup for monitoring natural resources at scale. Deep learning research → production platform → revenue. ([Planet.com coverage](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/))
+- **Meta** - Led the messaging developer platform ($B+ revenue opportunity across third-party APIs and Ads Manager). Built and shipped LLM-based products at scale.
 
- - **Meta** - Led the messaging developer platform ($B+ revenue opportunity across third-party APIs and Ads Manager). Built and shipped LLM-based products at scale.
+ - **[PlanetWatchers](https://spacenews.com/planetwatchers-markets/)** - Founded a geospatial AI startup for monitoring natural resources at scale. Deep learning research → production platform → revenue. ([Planet.com coverage](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/))
 
  - **Sumo Logic & AppDynamics** - ML-powered observability products.
 
