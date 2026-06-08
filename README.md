@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/arielsmoliar/) · [X](https://x.com/ariel_smoliar) · [Email](mailto:ariel.smoliar@gmail.com)
 
-I build AI products that ship. Right now I'm focused on cloud security and multi-agent orchestration - before that, I spent 12+ years leading product at places where AI/ML meets real-world systems at scale.
+I build AI products that ship. Right now I'm focused on cloud security and multi-agent orchestration - Passionate about leading product at places where AI/ML meets real-world systems at scale.
 
 ---
 
