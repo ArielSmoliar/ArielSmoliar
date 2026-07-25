@@ -4,7 +4,7 @@
 
 ### I build AI products that ship.
 
-Product leader, founder, and hands-on builder working where AI/ML meets real-world systems at scale — currently focused on cloud security and multi-agent orchestration.
+Product leader, founder, and hands-on builder working where AI/ML meets real-world systems at scale - currently focused on cloud security and multi-agent orchestration.
 
 [LinkedIn](https://www.linkedin.com/in/arielsmoliar/) · [X](https://x.com/ariel_smoliar) · [Email](mailto:ariel.smoliar@gmail.com)
 
@@ -55,7 +55,7 @@ Drop-in skill verification, cost tracking, tool authorization, behavioral anomal
 
 ### What connects the work
 
-I build systems that make applied AI easier to **trust, operate, and pay for** — from detecting anomalous cloud behavior to governing fleets of agents.
+I build systems that make applied AI easier to **trust, operate, and pay for** - from detecting anomalous cloud behavior to governing fleets of agents.
 
 </td>
 </tr>
@@ -81,9 +81,9 @@ Notes from building and evaluating LLM-first cloud anomaly detection in the real
 
 ## Where I've been
 
-- **Meta** — Led the messaging developer platform, a billion-dollar-plus revenue opportunity spanning third-party APIs and Ads Manager. Built and shipped LLM-based products at scale.
-- **[PlanetWatchers](https://spacenews.com/planetwatchers-markets/)** — Founded a geospatial AI startup for monitoring natural resources at scale: deep learning research → production platform → revenue. [Planet.com coverage →](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/)
-- **Sumo Logic & AppDynamics** — Built ML-powered observability products.
+- **Meta** - Led the messaging developer platform, a billion-dollar-plus revenue opportunity spanning third-party APIs and Ads Manager. Built and shipped LLM-based products at scale.
+- **[PlanetWatchers](https://spacenews.com/planetwatchers-markets/)** - Founded a geospatial AI startup for monitoring natural resources at scale: deep learning research → production platform → revenue. [Planet.com coverage →](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/)
+- **Sumo Logic & AppDynamics** - Built ML-powered observability products.
 
 ---
 
