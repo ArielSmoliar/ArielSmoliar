@@ -77,6 +77,18 @@ Field notes from a month of using two AI coding agents together: the quiet bugs 
 
 Notes from building and evaluating LLM-first cloud anomaly detection in the real world.
 
+### [Watching a Scheduler Pick Who Goes Next](https://x.com/arielsmoliar/status/2066886541402689642)
+
+A 20-seed simulation showing how one scheduling knob trades draining the deepest agent backlogs against fairness, including the point where a third of the agents starve.
+
+### [Google ADK is definitely not enterprise-ready. But it probably doesn't need to be](https://x.com/arielsmoliar/status/2070517000854519842)
+
+Hands-on stress tests of raw Google ADK across runaway loops, growing context, concurrent agents, shared state, and the production controls a managed platform still needs to provide.
+
+### [How SRE and security teams get cloud audit-log coverage from inside GitHub](https://x.com/arielsmoliar/status/2069763452231352527)
+
+How four Flare GitHub Actions extend cloud security from pre-merge checks through deployment verification, continuous monitoring, and incident investigation.
+
 ---
 
 ## Where I've been
