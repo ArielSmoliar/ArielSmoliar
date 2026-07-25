@@ -53,9 +53,13 @@ Drop-in skill verification, cost tracking, tool authorization, behavioral anomal
 </td>
 <td width="50%" valign="top">
 
-### What connects the work
+### [🌊 Resurface](https://getresurface.ai/) *(Coming soon)*
 
-I build systems that make applied AI easier to **trust, operate, and pay for** - from detecting anomalous cloud behavior to governing fleets of agents.
+**A private place for what matters**
+
+Save links, text, and screenshots in one calm library, then bring back the useful context, next move, or brief when it matters.
+
+[Visit the landing page →](https://getresurface.ai/)
 
 </td>
 </tr>
