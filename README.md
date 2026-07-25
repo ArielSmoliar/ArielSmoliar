@@ -87,8 +87,7 @@ Notes from building and evaluating LLM-first cloud anomaly detection in the real
 
 - AI-first threat detection that replaces rules-based SIEMs
 - The economics and orchestration of multi-agent systems
-- Closing the gap between frontier research and production systems
-- Safe, interpretable AI as a first-class product property
+- Turning frontier research into safe, interpretable production AI
 
 ---
 
