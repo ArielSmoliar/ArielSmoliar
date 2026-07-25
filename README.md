@@ -69,13 +69,9 @@ I build systems that make applied AI easier to **trust, operate, and pay for** -
 
 Field notes from a month of using two AI coding agents together: the quiet bugs a second model caught, why model disagreement is useful, the metric I started tracking, and where cross-model workflows still fall short.
 
-[Read the article on X →](https://x.com/arielsmoliar/status/2074931943943147579)
-
 ### [How I approach evals for AI anomaly detection](https://x.com/ariel_smoliar/status/2053200148814024838)
 
 Notes from building and evaluating LLM-first cloud anomaly detection in the real world.
-
-[Read on X →](https://x.com/ariel_smoliar/status/2053200148814024838)
 
 ---
 
