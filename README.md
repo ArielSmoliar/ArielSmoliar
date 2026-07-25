@@ -1,34 +1,96 @@
+<div align="center">
+
 # Hey, I'm Ariel 👋
+
+### I build AI products that ship.
+
+Product leader, founder, and hands-on builder working where AI/ML meets real-world systems at scale — currently focused on cloud security and multi-agent orchestration.
 
 [LinkedIn](https://www.linkedin.com/in/arielsmoliar/) · [X](https://x.com/ariel_smoliar) · [Email](mailto:ariel.smoliar@gmail.com)
 
-I build AI products that ship. Right now I'm focused on cloud security and multi-agent orchestration - Passionate about leading product at places where AI/ML meets real-world systems at scale.
+</div>
 
 ---
 
-## What I'm building
+## Featured projects
 
- - **[Flare](https://www.tryflare.ai)** - LLM-first cloud log anomaly detection. Connects to your audit logs, surfaces what doesn't fit, explains it in plain English. No rules to write, no ingestion fees. ([approach to evals](https://x.com/ariel_smoliar/status/2053200148814024838))
+<table>
+<tr>
+<td width="50%" valign="top">
 
- - **[LOCO-Agent](https://github.com/ArielSmoliar/loco-agent)** - Load-aware scheduling for multi-agent systems. Routes tokens to the highest-value work and tracks spend across every agent.
+### [🔥 Flare](https://www.tryflare.ai)
 
- - **[Safe-Agent](https://github.com/ArielSmoliar/safe-agent)** - Drop-in security skills for AI coding agents. Skill verification, cost tracking, tool authorization, behavioral anomaly detection, and pre-execution safety checks.
+**LLM-first cloud log anomaly detection**
+
+Connect your audit logs and surface what does not fit, explained in plain English. No rules to write. No ingestion fees.
+
+[Visit Flare →](https://www.tryflare.ai) · [How I approach evals →](https://x.com/ariel_smoliar/status/2053200148814024838)
+
+</td>
+<td width="50%" valign="top">
+
+### [⚡ LOCO-Agent](https://loco-agent.ai/)
+
+**Cost firewall for AI agents**
+
+An open-source scheduler, budget circuit breaker, and cost-attribution layer for teams running agentic AI in production.
+
+[Landing page →](https://loco-agent.ai/) · [Docs →](https://arielsmoliar.github.io/loco-agent/) · [GitHub →](https://github.com/ArielSmoliar/loco-agent) · [PyPI →](https://pypi.org/project/loco-agent/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🛡️ Safe-Agent](https://github.com/ArielSmoliar/safe-agent)
+
+**Security skills for AI coding agents**
+
+Drop-in skill verification, cost tracking, tool authorization, behavioral anomaly detection, and pre-execution safety checks.
+
+[View on GitHub →](https://github.com/ArielSmoliar/safe-agent)
+
+</td>
+<td width="50%" valign="top">
+
+### What connects the work
+
+I build systems that make applied AI easier to **trust, operate, and pay for** — from detecting anomalous cloud behavior to governing fleets of agents.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured writing
+
+### [Running Codex next to Claude Code: What a second model actually buys you](https://x.com/arielsmoliar/status/2074931943943147579)
+
+Field notes from a month of using two AI coding agents together: the quiet bugs a second model caught, why model disagreement is useful, the metric I started tracking, and where cross-model workflows still fall short.
+
+[Read the article on X →](https://x.com/arielsmoliar/status/2074931943943147579)
+
+### [How I approach evals for AI anomaly detection](https://x.com/ariel_smoliar/status/2053200148814024838)
+
+Notes from building and evaluating LLM-first cloud anomaly detection in the real world.
+
+[Read on X →](https://x.com/ariel_smoliar/status/2053200148814024838)
 
 ---
 
 ## Where I've been
 
-- **Meta** - Led the messaging developer platform ($B+ revenue opportunity across third-party APIs and Ads Manager). Built and shipped LLM-based products at scale.
-
- - **[PlanetWatchers](https://spacenews.com/planetwatchers-markets/)** - Founded a geospatial AI startup for monitoring natural resources at scale. Deep learning research → production platform → revenue. ([Planet.com coverage](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/))
-
- - **Sumo Logic & AppDynamics** - ML-powered observability products.
+- **Meta** — Led the messaging developer platform, a billion-dollar-plus revenue opportunity spanning third-party APIs and Ads Manager. Built and shipped LLM-based products at scale.
+- **[PlanetWatchers](https://spacenews.com/planetwatchers-markets/)** — Founded a geospatial AI startup for monitoring natural resources at scale: deep learning research → production platform → revenue. [Planet.com coverage →](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/)
+- **Sumo Logic & AppDynamics** — Built ML-powered observability products.
 
 ---
 
 ## What I'm thinking about
 
 - AI-first threat detection that replaces rules-based SIEMs
+- The economics and orchestration of multi-agent systems
 - Closing the gap between frontier research and production systems
 - Safe, interpretable AI as a first-class product property
 
@@ -41,6 +103,12 @@ I build AI products that ship. Right now I'm focused on cloud security and multi
 
 ---
 
+<div align="center">
+
 ### Let's talk
 
-I'm always up for conversations about AI in security, observability, multi-agent systems, or the applied AI ecosystem. Reach out anytime.
+I'm always up for conversations about AI in security, observability, multi-agent systems, and the applied AI ecosystem.
+
+[LinkedIn](https://www.linkedin.com/in/arielsmoliar/) · [X](https://x.com/ariel_smoliar) · [Email me](mailto:ariel.smoliar@gmail.com)
+
+</div>
