@@ -6,7 +6,7 @@
 
 Product leader, founder, and hands-on builder working where AI/ML meets real-world systems at scale - currently focused on cloud security and multi-agent orchestration.
 
-[LinkedIn](https://www.linkedin.com/in/arielsmoliar/) · [X](https://x.com/ariel_smoliar) · [Email](mailto:ariel.smoliar@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arielsmoliar/) · [X](https://x.com/arielsmoliar) · [Email](mailto:ariel.smoliar@gmail.com)
 
 </div>
 
