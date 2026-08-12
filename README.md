@@ -22,7 +22,7 @@ Product leader, founder, and hands-on builder working where AI/ML meets real-wor
 
 **LLM-first cloud log anomaly detection**
 
-Cloud anomaly detection for GCP Audit Logs and AWS CloudTrail, built for small security teams. Ranked, explained findings without per-GB ingestion fees or customer-authored detection rules.
+Cloud anomaly detection for GCP Audit Logs and AWS CloudTrail, built for small security teams.
 
 [Visit Flare →](https://www.tryflare.ai) · [How I approach evals →](https://x.com/ariel_smoliar/status/2053200148814024838)
 
