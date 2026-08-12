@@ -67,6 +67,13 @@ Save links, text, and screenshots in one calm library, then bring back the usefu
 
 ---
 
+## Recently shipped
+
+- **[Generate Runbook Skill](https://github.com/ArielSmoliar/generate-runbook-skill)** - A portable Codex and Claude Code skill for creating safe, validated operational runbooks.
+- **[ADK Learning Guide](https://github.com/ArielSmoliar/adk-learning-guide)** - An interactive deep-onboarding guide to Google's Agent Development Kit, including a LOCO-Agent integration module.
+
+---
+
 ## Featured writing
 
 ### [Running Codex next to Claude Code: What a second model actually buys you](https://x.com/arielsmoliar/status/2074931943943147579)
