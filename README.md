@@ -18,11 +18,11 @@ Product leader, founder, and hands-on builder working where AI/ML meets real-wor
 <tr>
 <td width="50%" valign="top">
 
-### [🔥 Flare](https://www.tryflare.ai)
+### [🔥 Flare AI](https://www.tryflare.ai)
 
 **LLM-first cloud log anomaly detection**
 
-Connect your audit logs and surface what does not fit, explained in plain English. No rules to write. No ingestion fees.
+Cloud anomaly detection for GCP Audit Logs and AWS CloudTrail, built for small security teams. Ranked, explained findings without per-GB ingestion fees or customer-authored detection rules.
 
 [Visit Flare →](https://www.tryflare.ai) · [How I approach evals →](https://x.com/ariel_smoliar/status/2053200148814024838)
 
