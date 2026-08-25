@@ -69,6 +69,7 @@ Save links, text, and screenshots in one calm library, then bring back the usefu
 
 ## Recently shipped
 
+- **[OpenClaw Daily Spending Allowances — product and API proposal](https://github.com/openclaw/openclaw/issues/121729)** - Proposed a consumer-friendly, Screen Time-style spending allowance for unattended AI agents, with plugin-owned policy and a privacy-conscious cost-and-provenance contract for OpenClaw core. Awaiting maintainer product review.
 - **[Generate Runbook Skill](https://github.com/ArielSmoliar/generate-runbook-skill)** - A portable Codex and Claude Code skill for creating safe, validated operational runbooks.
 - **[ADK Learning Guide](https://github.com/ArielSmoliar/adk-learning-guide)** - An interactive deep-onboarding guide to Google's Agent Development Kit, including a LOCO-Agent integration module.
 
