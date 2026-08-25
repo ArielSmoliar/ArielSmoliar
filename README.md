@@ -53,7 +53,7 @@ Drop-in skill verification, cost tracking, tool authorization, behavioral anomal
 </td>
 <td width="50%" valign="top">
 
-### [🌊 Resurface](https://getresurface.ai/) *(Coming soon)*
+### [🌊 Resurface](https://getresurface.ai/)
 
 **A private place for what matters**
 
