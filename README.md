@@ -99,6 +99,7 @@ How four Flare GitHub Actions extend cloud security from pre-merge checks throug
 
 ## Recent work
 
+- **[Tab Review Marker](https://arielsmoliar.github.io/tab-review-marker-site/)** - A free, local-first Chrome extension that adds To Review, Reviewed, and Needs Attention states directly to tab favicons, with notes and AI-ready exports. [Install from the Chrome Web Store →](https://chromewebstore.google.com/detail/tab-review-marker/gpbjejflccaaljhbdkjmihdfmmegoega) · [Launch post →](https://x.com/arielsmoliar/status/2092662357314928665)
 - **[OpenClaw Daily Spending Allowances](https://github.com/openclaw/openclaw/issues/121729)** - Proposed a consumer-friendly, Screen Time-style spending allowance for unattended AI agents, with plugin-owned policy and a privacy-conscious cost-and-provenance contract for OpenClaw core. Awaiting maintainer product review.
 - **[Generate Runbook Skill](https://github.com/ArielSmoliar/generate-runbook-skill)** - A portable Codex and Claude Code skill for creating safe, validated operational runbooks.
 - **[ADK Learning Guide](https://github.com/ArielSmoliar/adk-learning-guide)** - An interactive deep-onboarding guide to Google's Agent Development Kit, including a LOCO-Agent integration module.
