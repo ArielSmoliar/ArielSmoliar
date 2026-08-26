@@ -18,7 +18,7 @@ Product leader, founder, and hands-on builder working where AI/ML meets real-wor
 <tr>
 <td width="50%" valign="top">
 
-### [🔥 Flare AI](https://www.tryflare.ai)
+### [Flare AI](https://www.tryflare.ai)
 
 **LLM-first cloud log anomaly detection**
 
@@ -29,7 +29,7 @@ Cloud anomaly detection for GCP Audit Logs and AWS CloudTrail, built for small s
 </td>
 <td width="50%" valign="top">
 
-### [⚡ LOCO-Agent](https://loco-agent.ai/)
+### [LOCO-Agent](https://loco-agent.ai/)
 
 **Cost firewall for AI agents**
 
@@ -42,7 +42,7 @@ An open-source scheduler, budget circuit breaker, and cost-attribution layer for
 <tr>
 <td width="50%" valign="top">
 
-### [🛡️ Safe-Agent](https://github.com/ArielSmoliar/safe-agent)
+### [Safe-Agent](https://github.com/ArielSmoliar/safe-agent)
 
 **Security skills for AI coding agents**
 
@@ -53,7 +53,7 @@ Drop-in skill verification, cost tracking, tool authorization, behavioral anomal
 </td>
 <td width="50%" valign="top">
 
-### [🌊 Resurface](https://getresurface.ai/)
+### [Resurface](https://getresurface.ai/)
 
 **A private place for what matters**
 
