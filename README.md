@@ -67,14 +67,6 @@ Save links, text, and screenshots in one calm library, then bring back the usefu
 
 ---
 
-## Recent work
-
-- **[OpenClaw Daily Spending Allowances](https://github.com/openclaw/openclaw/issues/121729)** - Proposed a consumer-friendly, Screen Time-style spending allowance for unattended AI agents, with plugin-owned policy and a privacy-conscious cost-and-provenance contract for OpenClaw core. Awaiting maintainer product review.
-- **[Generate Runbook Skill](https://github.com/ArielSmoliar/generate-runbook-skill)** - A portable Codex and Claude Code skill for creating safe, validated operational runbooks.
-- **[ADK Learning Guide](https://github.com/ArielSmoliar/adk-learning-guide)** - An interactive deep-onboarding guide to Google's Agent Development Kit, including a LOCO-Agent integration module.
-
----
-
 ## Featured writing
 
 ### [Running Codex next to Claude Code: What a second model actually buys you](https://x.com/arielsmoliar/status/2074931943943147579)
@@ -102,6 +94,14 @@ Hands-on stress tests of raw Google ADK across runaway loops, growing context, c
 ### [How SRE and security teams get cloud audit-log coverage from inside GitHub](https://x.com/arielsmoliar/status/2069763452231352527)
 
 How four Flare GitHub Actions extend cloud security from pre-merge checks through deployment verification, continuous monitoring, and incident investigation.
+
+---
+
+## Recent work
+
+- **[OpenClaw Daily Spending Allowances](https://github.com/openclaw/openclaw/issues/121729)** - Proposed a consumer-friendly, Screen Time-style spending allowance for unattended AI agents, with plugin-owned policy and a privacy-conscious cost-and-provenance contract for OpenClaw core. Awaiting maintainer product review.
+- **[Generate Runbook Skill](https://github.com/ArielSmoliar/generate-runbook-skill)** - A portable Codex and Claude Code skill for creating safe, validated operational runbooks.
+- **[ADK Learning Guide](https://github.com/ArielSmoliar/adk-learning-guide)** - An interactive deep-onboarding guide to Google's Agent Development Kit, including a LOCO-Agent integration module.
 
 ---
 
