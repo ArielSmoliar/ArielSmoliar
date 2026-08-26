@@ -67,7 +67,7 @@ Save links, text, and screenshots in one calm library, then bring back the usefu
 
 ---
 
-## Recently shipped
+## Recent work
 
 - **[OpenClaw Daily Spending Allowances](https://github.com/openclaw/openclaw/issues/121729)** - Proposed a consumer-friendly, Screen Time-style spending allowance for unattended AI agents, with plugin-owned policy and a privacy-conscious cost-and-provenance contract for OpenClaw core. Awaiting maintainer product review.
 - **[Generate Runbook Skill](https://github.com/ArielSmoliar/generate-runbook-skill)** - A portable Codex and Claude Code skill for creating safe, validated operational runbooks.
