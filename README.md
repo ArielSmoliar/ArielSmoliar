@@ -24,7 +24,7 @@ Product leader, founder, and hands-on builder working where AI/ML meets real-wor
 
 Cloud anomaly detection for GCP Audit Logs and AWS CloudTrail, built for small security teams.
 
-[Visit Flare →](https://www.tryflare.ai) · [How I approach evals →](https://x.com/ariel_smoliar/status/2053200148814024838)
+[Visit Flare →](https://www.tryflare.ai) · [Evaluation case study →](./writing/evaluating-ai-anomaly-detection.md) · [Original X thread →](https://x.com/ariel_smoliar/status/2053200148814024838)
 
 </td>
 <td width="50%" valign="top">
@@ -81,9 +81,11 @@ Save links, text, and screenshots in one calm library, then bring back the usefu
 
 Field notes from a month of using two AI coding agents together: the quiet bugs a second model caught, why model disagreement is useful, the metric I started tracking, and where cross-model workflows still fall short.
 
-### [How I approach evals for AI anomaly detection](https://x.com/ariel_smoliar/status/2053200148814024838)
+### [How I evaluate AI anomaly detection](./writing/evaluating-ai-anomaly-detection.md)
 
-Notes from building and evaluating LLM-first cloud anomaly detection in the real world.
+How I use golden fixtures, source grounding, failure analysis, and regression testing to evaluate an LLM-first cloud-security product.
+
+[Read on GitHub →](./writing/evaluating-ai-anomaly-detection.md) · [Original X thread →](https://x.com/ariel_smoliar/status/2053200148814024838)
 
 ### [Watching a Scheduler Pick Who Goes Next](https://x.com/arielsmoliar/status/2066886541402689642)
 
