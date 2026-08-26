@@ -155,6 +155,3 @@ Reliable AI products require more than selecting a capable model. They require a
 
 That evaluation loop is ultimately what makes a probabilistic capability shippable.
 
----
-
-Originally published as an [X thread](https://x.com/ariel_smoliar/status/2053200148814024838).
