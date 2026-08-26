@@ -81,6 +81,8 @@ Save links, text, and screenshots in one calm library, then bring back the usefu
 
 Field notes from a month of using two AI coding agents together: the quiet bugs a second model caught, why model disagreement is useful, the metric I started tracking, and where cross-model workflows still fall short.
 
+[Read on GitHub →](./writing/cross-model-review.md)
+
 ### [How I evaluate AI anomaly detection](https://x.com/ariel_smoliar/status/2053200148814024838)
 
 How I use golden fixtures, source grounding, failure analysis, and regression testing to evaluate an LLM-first cloud-security product.
@@ -90,6 +92,8 @@ How I use golden fixtures, source grounding, failure analysis, and regression te
 ### [Watching a Scheduler Pick Who Goes Next](https://x.com/arielsmoliar/status/2066886541402689642)
 
 A 20-seed simulation showing how one scheduling knob trades draining the deepest agent backlogs against fairness, including the point where a third of the agents starve.
+
+[Read on GitHub →](./writing/agent-scheduler-simulations.md)
 
 ### [Google ADK is definitely not enterprise-ready. But it probably doesn't need to be](https://x.com/arielsmoliar/status/2070517000854519842)
 
