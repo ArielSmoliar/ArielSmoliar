@@ -108,7 +108,7 @@ How four Flare GitHub Actions extend cloud security from pre-merge checks throug
 
 ## Where I've been
 
-- **Meta** - Led the messaging developer platform, a billion-dollar-plus revenue opportunity spanning third-party APIs and Ads Manager. Built and shipped LLM-based products at scale.
+- **Meta** - Led the messaging developer platform, a billion-dollar-plus revenue opportunity spanning third-party APIs and Ads Manager. Built and shipped an LLM-augmented decision system and quality measurement at scale.
 - **[PlanetWatchers](https://spacenews.com/planetwatchers-markets/)** - Founded a geospatial AI startup for monitoring natural resources at scale: deep learning research → production platform → revenue. [Planet.com coverage →](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/)
 - **Sumo Logic & AppDynamics** - Built ML-powered observability products.
 
