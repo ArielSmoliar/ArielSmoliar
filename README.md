@@ -31,11 +31,11 @@ Cloud anomaly detection for GCP Audit Logs and AWS CloudTrail, built for small s
 
 ### [LOCO-Agent](https://loco-agent.ai/)
 
-**Cost firewall for AI agents**
+**Control plane for agent fleets**
 
-An open-source scheduler, budget circuit breaker, and cost-attribution layer for teams running agentic AI in production.
+LOCO is an open-source scheduling and cost-governance layer for AI agents. Today it acts as a cost firewall, controlling which eligible work runs, when it runs, and how much shared capacity it receives. The roadmap extends that execution layer toward monitoring-aware fleet control.
 
-[Landing page →](https://loco-agent.ai/) · [Docs →](https://arielsmoliar.github.io/loco-agent/) · [GitHub →](https://github.com/ArielSmoliar/loco-agent) · [PyPI →](https://pypi.org/project/loco-agent/)
+[Explore LOCO →](https://loco-agent.ai/) · [Quick start →](https://arielsmoliar.github.io/loco-agent/quickstart/) · [Roadmap →](https://github.com/ArielSmoliar/loco-agent/blob/main/ROADMAP.md) · [Join the discussion →](https://github.com/ArielSmoliar/loco-agent/discussions/7)
 
 </td>
 </tr>
