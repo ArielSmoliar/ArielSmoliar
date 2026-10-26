@@ -98,9 +98,9 @@ Lessons from using two coding agents together: bugs caught, useful disagreements
 
 ## Where I've been
 
-- **Meta** - Led the messaging developer platform, a billion-dollar-plus revenue opportunity spanning third-party APIs and Ads Manager. Built and shipped an LLM-augmented decision system and quality measurement at scale.
-- **[PlanetWatchers](https://spacenews.com/planetwatchers-markets/)** - Founded a geospatial AI startup for monitoring natural resources at scale: deep learning research → production platform → revenue. [Planet.com coverage →](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/)
-- **Sumo Logic & AppDynamics** - Built ML-powered observability products.
+My background spans developer platforms, applied ML, and shipping AI products. At Meta, I led messaging platform products and shipped an LLM co-pilot with answer-quality evaluations. I co-founded PlanetWatchers, helping turn U-Net research into a commercial satellite-imagery platform. Earlier, I built ML-powered observability products at Sumo Logic and AppDynamics.
+
+PlanetWatchers coverage: [SpaceNews](https://spacenews.com/planetwatchers-markets/) · [Planet.com](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/)
 
 ---
 
@@ -124,7 +124,7 @@ Lessons from using two coding agents together: bugs caught, useful disagreements
 
 ### Let's talk
 
-I'm always up for conversations about AI in security, observability, multi-agent systems, and the applied AI ecosystem.
+Always up for comparing notes on LLM evals, agent infrastructure, developer tools, and turning research into useful products.
 
 [LinkedIn](https://www.linkedin.com/in/arielsmoliar/) · [X](https://x.com/arielsmoliar) · [Email me](mailto:ariel.smoliar@gmail.com)
 
