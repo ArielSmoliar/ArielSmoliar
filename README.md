@@ -104,11 +104,12 @@ Lessons from using two coding agents together: bugs caught, useful disagreements
 
 ---
 
-## What I'm thinking about
+## What I'm exploring
 
-- AI-first threat detection that replaces rules-based SIEMs
-- The economics and orchestration of multi-agent systems
-- Turning frontier research into safe, interpretable production AI
+- **LLM evaluation:** grounding, failure analysis, and deciding whether a model or prompt change actually improves the product.
+- **Agent infrastructure:** scheduling, shared capacity, and the trade-offs between cost, latency, and fairness.
+- **Developer tools:** making agent behavior, context usage, and execution easier to inspect and control.
+- **Research into products:** translating model capabilities into useful workflows with measurable acceptance criteria.
 
 ---
 
