@@ -66,31 +66,25 @@ A community-built Codex plugin that makes context usage, token consumption, and 
 
 ## Featured writing
 
-### [Running Codex next to Claude Code: What a second model actually buys you](https://x.com/arielsmoliar/status/2074931943943147579)
+### [How I evaluate AI anomaly detection](./writing/evaluating-ai-anomaly-detection.md)
 
-Field notes from a month of using two AI coding agents together: the quiet bugs a second model caught, why model disagreement is useful, the metric I started tracking, and where cross-model workflows still fall short.
+Golden fixtures, evidence grounding, failure analysis, and regression tests for Flare.
 
-[Read on GitHub →](./writing/cross-model-review.md)
+[Read on GitHub →](./writing/evaluating-ai-anomaly-detection.md) · [Read on X →](https://x.com/arielsmoliar/status/2053200148814024838)
 
-### [How I evaluate AI anomaly detection](https://x.com/ariel_smoliar/status/2053200148814024838)
+### [Watching a Scheduler Pick Who Goes Next](./writing/agent-scheduler-simulations.md)
 
-How I use golden fixtures, source grounding, failure analysis, and regression testing to evaluate an LLM-first cloud-security product.
+A 20-seed simulation exploring backlog versus fairness—and how queue-depth-only scheduling can starve agents.
 
-[Read on GitHub →](./writing/evaluating-ai-anomaly-detection.md)
+[Read on GitHub →](./writing/agent-scheduler-simulations.md) · [Read on X →](https://x.com/arielsmoliar/status/2066886541402689642)
 
-### [Watching a Scheduler Pick Who Goes Next](https://x.com/arielsmoliar/status/2066886541402689642)
+### [Running Codex next to Claude Code](./writing/cross-model-review.md)
 
-A 20-seed simulation showing how one scheduling knob trades draining the deepest agent backlogs against fairness, including the point where a third of the agents starve.
+Lessons from using two coding agents together: bugs caught, useful disagreements, and workflow limitations.
 
-[Read on GitHub →](./writing/agent-scheduler-simulations.md)
+[Read on GitHub →](./writing/cross-model-review.md) · [Read on X →](https://x.com/arielsmoliar/status/2074931943943147579)
 
-### [Google ADK is definitely not enterprise-ready. But it probably doesn't need to be](https://x.com/arielsmoliar/status/2070517000854519842)
-
-Hands-on stress tests of raw Google ADK across runaway loops, growing context, concurrent agents, shared state, and the production controls a managed platform still needs to provide.
-
-### [How SRE and security teams get cloud audit-log coverage from inside GitHub](https://x.com/arielsmoliar/status/2069763452231352527)
-
-How four Flare GitHub Actions extend cloud security from pre-merge checks through deployment verification, continuous monitoring, and incident investigation.
+**More writing:** [Stress-testing Google ADK](https://x.com/arielsmoliar/status/2070517000854519842) · [Cloud audit-log coverage from inside GitHub](https://x.com/arielsmoliar/status/2069763452231352527)
 
 ---
 
