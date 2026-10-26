@@ -2,9 +2,9 @@
 
 # Hey, I'm Ariel 👋
 
-### I build AI products that ship.
+### I build AI products and the tools around them.
 
-Product leader, founder, and hands-on builder working where AI/ML meets real-world systems at scale - currently focused on cloud security and multi-agent orchestration.
+My projects span LLM-powered investigations, agent scheduling and cost controls, and tools for AI coding workflows. I write about what I learn along the way: grounding model outputs, designing evals, and testing where systems break.
 
 [LinkedIn](https://www.linkedin.com/in/arielsmoliar/) · [X](https://x.com/arielsmoliar) · [Email](mailto:ariel.smoliar@gmail.com)
 
