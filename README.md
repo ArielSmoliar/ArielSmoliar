@@ -18,52 +18,49 @@ My projects span LLM-powered investigations, agent scheduling and cost controls,
 <tr>
 <td width="50%" valign="top">
 
-### [Flare AI](https://www.tryflare.ai)
+### [LOCO-Agent](https://github.com/ArielSmoliar/loco-agent)
 
-**LLM-first cloud log anomaly detection**
+Open-source scheduling and cost controls for AI agents. Controls which work runs, when it runs, and how agents share capacity.
 
-Cloud anomaly detection for GCP Audit Logs and AWS CloudTrail, built for small security teams.
-
-[Visit Flare →](https://www.tryflare.ai) · [Evaluation case study →](./writing/evaluating-ai-anomaly-detection.md) · [Original X thread →](https://x.com/ariel_smoliar/status/2053200148814024838)
+[Code →](https://github.com/ArielSmoliar/loco-agent) · [Quick start →](https://arielsmoliar.github.io/loco-agent/quickstart/) · [Scheduling experiments →](./writing/agent-scheduler-simulations.md)
 
 </td>
 <td width="50%" valign="top">
 
-### [LOCO-Agent](https://loco-agent.ai/)
+### [Flare AI](https://tryflare.ai/)
 
-**Control plane for agent fleets**
+LLM-powered cloud log investigations, with evaluations for evidence grounding, detection quality, and useful explanations.
 
-LOCO is an open-source scheduling and cost-governance layer for AI agents. Today it acts as a cost firewall, controlling which eligible work runs, when it runs, and how much shared capacity it receives. The roadmap extends that execution layer toward monitoring-aware fleet control.
-
-[Explore LOCO →](https://loco-agent.ai/) · [Quick start →](https://arielsmoliar.github.io/loco-agent/quickstart/) · [Roadmap →](https://github.com/ArielSmoliar/loco-agent/blob/main/ROADMAP.md) · [Join the discussion →](https://github.com/ArielSmoliar/loco-agent/discussions/7)
+[Try Flare →](https://tryflare.ai/) · [Evaluation case study →](./writing/evaluating-ai-anomaly-detection.md)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Safe-Agent](https://github.com/ArielSmoliar/safe-agent)
+### [Generate Runbook](https://github.com/ArielSmoliar/generate-runbook-skill)
 
-**Security skills for AI coding agents**
+A Codex and Claude Code plugin for operational runbooks with verification steps, recovery paths, and execution records.
 
-Drop-in skill verification, cost tracking, tool authorization, behavioral anomaly detection, and pre-execution safety checks.
-
-[View on GitHub →](https://github.com/ArielSmoliar/safe-agent)
+[Code and installation →](https://github.com/ArielSmoliar/generate-runbook-skill)
 
 </td>
 <td width="50%" valign="top">
 
-### [Resurface](https://apps.apple.com/us/app/resurface-save-revisit/id6793653376)
+### [Codex Context Status](https://github.com/ArielSmoliar/codex-context-status)
 
-**A private place for what matters**
+A community-built Codex plugin that makes context usage, token consumption, and compaction activity visible.
 
-Save links, text, and screenshots in one calm library, then bring back the useful context, next move, or brief when it matters.
-
-[Download on the App Store →](https://apps.apple.com/us/app/resurface-save-revisit/id6793653376)
+[Code and installation →](https://github.com/ArielSmoliar/codex-context-status)
 
 </td>
 </tr>
 </table>
+
+## More projects
+
+- **[Safe-Agent](https://github.com/ArielSmoliar/safe-agent)** — Security skills for AI coding agents: skill verification, cost tracking, tool authorization, behavioral anomaly detection, and pre-execution checks.
+- **[Resurface](https://apps.apple.com/us/app/resurface-save-revisit/id6793653376)** — An iOS app for saving and revisiting links, text, and screenshots.
 
 ---
 
@@ -101,7 +98,6 @@ How four Flare GitHub Actions extend cloud security from pre-merge checks throug
 
 - **[Tab Review Marker](https://arielsmoliar.github.io/tab-review-marker-site/)** - A free, local-first Chrome extension that adds To Review, Reviewed, and Needs Attention states directly to tab favicons, with notes and AI-ready exports.
 - **[OpenClaw Daily Spending Allowances](https://github.com/openclaw/openclaw/issues/121729)** - Proposed a consumer-friendly, Screen Time-style spending allowance for unattended AI agents, with plugin-owned policy and a privacy-conscious cost-and-provenance contract for OpenClaw core. Awaiting maintainer product review.
-- **[Generate Runbook Skill](https://github.com/ArielSmoliar/generate-runbook-skill)** - A portable Codex and Claude Code skill for creating safe, validated operational runbooks.
 - **[ADK Learning Guide](https://github.com/ArielSmoliar/adk-learning-guide)** - An interactive deep-onboarding guide to Google's Agent Development Kit, including a LOCO-Agent integration module.
 
 ---
